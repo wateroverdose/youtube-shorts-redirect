@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         youtube shorts redirect
-// @description  this script changes all hrefs referencing 'youtube.com/shorts' to 'youtube.com/watch&v='
-// @description:pl 
+// @description  this script redirects you to the 'watch?v=' site instead of '/shorts/' after clicking on a youtube short
+// @description:pl ten skrypt przenosi cię na 'watch?v=' zamiast na '/shorts/' gdy klikasz na jakiegoś shorta na youtubie
 // @author       bruhfunny (https://github.com/bruhfunnydev)
 // @version      v1
 // @match        *://*.youtube.com/shorts/*
